@@ -265,6 +265,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 margin-bottom: 8px;
+margin-top: 8px;
  }
  
  .friend-text{
@@ -396,6 +397,15 @@ text-align: center;
 
  /* Секция 5 */
 
+ .customers-title{
+  font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+margin-bottom: 72px;
+ }
+
  .customers{
   padding-top: 130px;
   padding-bottom: 120px;
@@ -408,10 +418,6 @@ text-align: center;
  .company-logo-box{
   display: block;
   margin-right: 24px; 
-  
-  
-  
-  
  }
 
  .company-logo{
